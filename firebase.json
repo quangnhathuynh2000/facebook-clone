@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "facebook.web.app",
+    "public": "build",
     "ignore": [
       "firebase.json",
       "**/.*",
